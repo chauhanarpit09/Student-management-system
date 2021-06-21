@@ -1,2 +1,10 @@
-# simple-student-management-system
-the simple management system in which admin add update or delete stdent and student get their info by entering roll no 
+#Student-management-system
+Basic Student Management System 
+Feature
+ For Admin
+	-- Admin Login
+	-- Insert New Student Information
+	-- Update Student Information
+	-- Delete Student Information
+ For Student
+	-- See their Details
